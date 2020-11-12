@@ -13,6 +13,8 @@ cc 100 usd
 
 `cc` 則是此應用程式的關鍵字，有這關鍵字才能處發
 
+![](demo.png)
+
 ## 如何開發
 [Alfred](https://www.alfredapp.com/) ![](https://www.alfredapp.com/favicon.ico) 應用程式路徑 `~/Library/Application\ Support/Alfred/Alfred.alfredpreferences/workflows/` 下有 workflow 資料夾會有一個長得像 `user.workflow.<UUID>` 的資料夾，程式的相關資源都在該資料夾底下
 
